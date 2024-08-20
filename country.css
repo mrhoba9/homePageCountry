@@ -339,5 +339,8 @@ body {
 	.div-description::before{
 		opacity: 0;
 	}
+	.div-description-after::after{
+		opacity:0 ;
+	}
 	
 }
